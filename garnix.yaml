@@ -1,4 +1,4 @@
 builds:
  exclude: []
  include:
- - '*.aarch64-linux.*'
+ - 'legacyPackages.aarch64-linux.linux_rpi5'
